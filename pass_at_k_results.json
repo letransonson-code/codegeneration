@@ -1,0 +1,517 @@
+{
+  "summary": {
+    "pass@1": 0.14,
+    "pass@5": 0.34
+  },
+  "details": [
+    {
+      "task_id": 1,
+      "requirement": "Write a function to convert a given string to a tuple of characters.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 2,
+      "requirement": "Write a python function to count the number of positive numbers in a list.",
+      "n": 5,
+      "correct": 4,
+      "pass_at_k": {
+        "pass@1": 0.8,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 3,
+      "requirement": "Write a function to remove lowercase substrings from a given string.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 4,
+      "requirement": "Write a python function to split a list at the nth eelment and add the first part to the end.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 5,
+      "requirement": "Write a function to check whether a list contains the given sublist or not.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 6,
+      "requirement": "Write a python function to check whether a list of numbers contains only one distinct element or not.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 7,
+      "requirement": "Write a function to find whether all the given tuples have equal length or not.",
+      "n": 5,
+      "correct": 1,
+      "pass_at_k": {
+        "pass@1": 0.19999999999999996,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 8,
+      "requirement": "Write a function to find the dissimilar elements in the given two tuples.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 9,
+      "requirement": "Write a python function to find the element that appears only once in a sorted array.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 10,
+      "requirement": "Write a python function to find a pair with highest product from a given array of integers.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 11,
+      "requirement": "Write a python function to split a string into characters.",
+      "n": 5,
+      "correct": 1,
+      "pass_at_k": {
+        "pass@1": 0.19999999999999996,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 12,
+      "requirement": "Write a python function that takes in a non-negative number and returns the number of prime numbers less than the given non-negative number.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 13,
+      "requirement": "Write a python function to get the first element of each sublist.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 14,
+      "requirement": "Write a function that gives loss amount on a sale if the given amount has loss else return 0.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 15,
+      "requirement": "Write a function to sort a list of elements.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 16,
+      "requirement": "Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 17,
+      "requirement": "Write a python function to find the number of numbers with an odd value when rotating a binary string the given number of times.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 18,
+      "requirement": "Write a python function to find the sum of all odd natural numbers within the range l and r.",
+      "n": 5,
+      "correct": 4,
+      "pass_at_k": {
+        "pass@1": 0.8,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 19,
+      "requirement": "Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 20,
+      "requirement": "Write a function to convert the given decimal number to its binary equivalent, represented as a string with no leading zeros.",
+      "n": 5,
+      "correct": 2,
+      "pass_at_k": {
+        "pass@1": 0.4,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 21,
+      "requirement": "Write a python function to check whether the given number can be represented as sum of non-zero powers of 2 or not.",
+      "n": 5,
+      "correct": 1,
+      "pass_at_k": {
+        "pass@1": 0.19999999999999996,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 22,
+      "requirement": "Write a function to convert degrees to radians.",
+      "n": 5,
+      "correct": 1,
+      "pass_at_k": {
+        "pass@1": 0.19999999999999996,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 23,
+      "requirement": "Write a python function to check whether all the bits are unset in the given range or not.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 24,
+      "requirement": "Write a function to remove leading zeroes from an ip address.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 25,
+      "requirement": "Write a function to calculate the wind chill index rounded to the next integer given the wind velocity in km/h and a temperature in celsius.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 26,
+      "requirement": "Write a function to check whether the given string starts and ends with the same character or not.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 27,
+      "requirement": "Write a function to find the surface area of a cylinder.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 28,
+      "requirement": "Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.",
+      "n": 5,
+      "correct": 4,
+      "pass_at_k": {
+        "pass@1": 0.8,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 29,
+      "requirement": "Write a function to flatten the list of lists into a single set of numbers.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 30,
+      "requirement": "Write a python function to count the number of equal numbers from three given integers.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 31,
+      "requirement": "Write a python function to find the first odd number in a given list of numbers.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 32,
+      "requirement": "Write a function to perform index wise multiplication of tuple elements in the given two tuples.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 33,
+      "requirement": "Write a function to move all the numbers to the end of the given string.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 34,
+      "requirement": "Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 35,
+      "requirement": "Write a function to sort a dictionary by value.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 36,
+      "requirement": "Write a function to remove uppercase substrings from a given string.",
+      "n": 5,
+      "correct": 1,
+      "pass_at_k": {
+        "pass@1": 0.19999999999999996,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 37,
+      "requirement": "Write a python function to count the number of non-empty substrings of a given string.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 38,
+      "requirement": "Write a function to find the intersection of two arrays.",
+      "n": 5,
+      "correct": 1,
+      "pass_at_k": {
+        "pass@1": 0.19999999999999996,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 39,
+      "requirement": "Write a python function to find the minimum number of rotations (greater than 0) required to get the same string.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 40,
+      "requirement": "Write a function to add the given tuple to the given list.",
+      "n": 5,
+      "correct": 2,
+      "pass_at_k": {
+        "pass@1": 0.4,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 41,
+      "requirement": "Write a function to check whether all dictionaries in a list are empty or not.",
+      "n": 5,
+      "correct": 3,
+      "pass_at_k": {
+        "pass@1": 0.6,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 42,
+      "requirement": "Write a python function which takes a list and returns a list with the same elements, but the k'th element removed.",
+      "n": 5,
+      "correct": 1,
+      "pass_at_k": {
+        "pass@1": 0.19999999999999996,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 43,
+      "requirement": "Write a function to convert a snake case string to camel case string.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 44,
+      "requirement": "Write a function to convert all possible convertible elements in a list of lists to floats.",
+      "n": 5,
+      "correct": 1,
+      "pass_at_k": {
+        "pass@1": 0.19999999999999996,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 45,
+      "requirement": "Write a function to find common first element in given list of tuple.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 46,
+      "requirement": "Write a python function to find the product of the array multiplication modulo n.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    },
+    {
+      "task_id": 47,
+      "requirement": "Write a python function to count the number of set bits (binary digits with value 1) in a given number.",
+      "n": 5,
+      "correct": 4,
+      "pass_at_k": {
+        "pass@1": 0.8,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 48,
+      "requirement": "Write a function to check if given tuple contains no duplicates.",
+      "n": 5,
+      "correct": 3,
+      "pass_at_k": {
+        "pass@1": 0.6,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 49,
+      "requirement": "Write a function that returns the list in a list of lists whose sum of elements is the highest.",
+      "n": 5,
+      "correct": 1,
+      "pass_at_k": {
+        "pass@1": 0.19999999999999996,
+        "pass@5": 1.0
+      }
+    },
+    {
+      "task_id": 50,
+      "requirement": "Write a function to find the pairwise addition of the neighboring elements of the given tuple.",
+      "n": 5,
+      "correct": 0,
+      "pass_at_k": {
+        "pass@1": 0.0,
+        "pass@5": 0.0
+      }
+    }
+  ],
+  "config": {
+    "n_samples": 5,
+    "r_demos": 3,
+    "max_new_tokens": 100,
+    "assert_hint": true,
+    "temperature": 0.8,
+    "top_p": 0.95
+  },
+  "n_problems": 50
+}
